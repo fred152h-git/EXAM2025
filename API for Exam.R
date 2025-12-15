@@ -1,4 +1,4 @@
-##Exam_2025_1_GIT
+##Exam_2025_GIT
 
 library(httr2)
 
